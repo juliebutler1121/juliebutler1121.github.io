@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: Julie's Website AAAA
+title: Julie's Website
 description: This is a test to see where this text goes. 
 
 navbar-links:
-  About Me: "aboutme.html"
+  About Me: "aboutme.md"
 
 
