@@ -3,4 +3,9 @@ title: Julie's Website
 description: This is a test to see where this text goes.
 
 navbar-links:
-  About Me: "aboutme.html"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+Author's home: "http://deanattali.com"
